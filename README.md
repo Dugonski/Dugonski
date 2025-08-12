@@ -7,21 +7,6 @@
 
 ---
 
-### 🛠️ Current Project
-
-I'm currently working on a **School Management System** — a **college project** designed to enhance our **professional development through hands-on experience**.
-
-- 🎯 The goal is to simulate real-world software development practices.
-- 🔍 My **main responsibility** is the **database architecture and management**, but I also **actively contribute to both frontend and backend** development.
-
-**Tech Stack:**
-
-- 🧠 **Back-end:** Go + Fiber + GORM  
-- 🎨 **Front-end:** React.js  
-- 💾 **Database:** MySQL  
-
----
-
 ### 📫 Let's connect!
 
 Feel free to reach out or explore some of my work here on GitHub.  
