@@ -13,15 +13,14 @@
 
 ## About Me
 
-I'm a **Software Engineering** student (6th semester at UniBrasil) aiming for a **Junior Software Developer** role.
-I've built full-stack academic projects with **React** and **C#**, and I currently work as an
-**R&D Trainee in Electronics and Hardware at HORSCH**, where I test machine software, provide technical
-support to production, and share technical feedback with the headquarters.
+I'm a **Fullstack Developer** pursuing a **Bachelor's degree in Software Engineering**. I enjoy building
+end-to-end solutions — from intuitive user interfaces to reliable back-end services — combining logic,
+design, and data to solve real problems.
 
-- Building web applications with **React**, **JavaScript**, **Node.js**, and **C#**
-- Working on an **Industrial Integration & IoT** capstone project (Industry 4.0, real-time monitoring)
-- Solid foundation in **data structures**, **system architecture**, and **software testing**
-- Advanced English, used daily to collaborate with global teams
+- Currently building web applications with **TypeScript**, **JavaScript**, and **C#/.NET**
+- Strengthening my fundamentals in **algorithms, data structures, and Big O analysis**
+- Committed to continuous learning: new tools, languages, and better engineering practices
+- Open to collaborating on interesting projects and sharing knowledge
 
 ---
 
@@ -30,27 +29,26 @@ support to production, and share technical feedback with the headquarters.
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,cs,py,cpp" alt="JavaScript, C#, Python, C++"/>
-  <img height="48" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,cs,html,css" alt="Languages"/>
 </p>
 
-**Web Development**
+**Front-end**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,nodejs" alt="React, HTML5, CSS3, Node.js"/>
-  <img height="48" src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" alt="REST APIs"/>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite" alt="Front-end"/>
 </p>
 
-**Databases & Tools**
+**Back-end & Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,docker" alt="MySQL, Git, GitHub, Docker"/>
-  <img height="48" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge" alt="SQL Server"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,dotnet,postgres,mysql" alt="Back-end and databases"/>
 </p>
 
-**Software Engineering**
+**Tools & DevOps**
 
-Scrum · Programming Logic · Data Structures · System Architecture · Software Testing
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio" alt="Tools"/>
+</p>
 
 ---
 
